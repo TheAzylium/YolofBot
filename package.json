@@ -1,0 +1,23 @@
+{
+  "name": "yolofbot",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/TheAzylium/YolofBot.git"
+  },
+  "author": "TheAzylium",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/TheAzylium/YolofBot/issues"
+  },
+  "homepage": "https://github.com/TheAzylium/YolofBot#readme",
+  "dependencies": {
+    "cron": "^1.8.2",
+    "discord.js": "^12.5.3"
+  }
+}
